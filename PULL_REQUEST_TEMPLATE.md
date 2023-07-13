@@ -1,11 +1,14 @@
-## 目的
+## Context
 
-## 背景
+<!-- Why do we need this PR? What was the reason that led you to make this change? -->
 
-## 変更内容の詳細
+## Objective
 
-## 確認した項目
+<!-- What does this PR fix? What intentional changes will this PR make? -->
 
-## 見てほしいところ
+## References
 
-## 参考資料
+<!-- Links or resources that help clarify and support your intentions (e.g., Github issue) -->
+
+## License
+I confirm that this contribution is made under a BSD license and that I have the authority necessary to make this contribution on behalf of its copyright owner.
